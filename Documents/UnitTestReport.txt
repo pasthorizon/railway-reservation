@@ -1,0 +1,92 @@
+./UnitTestApplication 
+
+
++++Unit Testing Station Class+++
+    Constructor taking string argument works
+    Copy constructor working
+    GetName() works
+    GetDistance() works
+
+
++++Unit Testing Railways Class+++
+    Name: Indian Railways
+    Singleton class returned
+    All distances returned right
+    ValidatePath() works right
+    Bad station name(station name repeated) exception handled right
+    Bad station name(station name repeated) exception handled right
+    ValidatePath() handles exceptions right
+
+
++++Unit Testing Date Class+++
+    Constructor with integer arguments working
+    Copy Constructor working
+    CreateDate() with string working
+    inYearSpan() working right
+    getAge() working right
+    isPast() working right
+    Bad date(incorrect date format) exception handled right
+    Bad date(invalid date) exception handled right
+
+
++++Unit Testing Gender Class+++
+ Gender Class works right
+
+
++++Unit Testing Passenger Class+++
+    CreatePassenger() working right
+    Copy Constructor working right
+    Bad DOB exception handled right
+    Bad Aadhaar Card No. exception handled right
+    Bad Phone No. exception handled right
+    Bad passenger Name exception handled right
+
+
++++Unit Testing BookingClasses Class+++
+    Execitive Chair Car is working right
+    First Class is working right
+    AC 2 Tier is working right
+    AC 3 Tier is working right
+    AC First Class is working right
+    Sleeper is working right
+    Second Sitting is working right
+    AC Chair Car is working right
+
+
++++Unit Testing Divyaang Class+++
+    None type works right
+    Tuberculosis type works right
+    Orthopaedic Handicap Type works right
+    Cancer Type works right
+    Blind Type works right
+    Cancer Eligibility in Divyaang working right
+    Blind Eligibility in Divyaang working right
+    Tuberculosis Eligibility in Divyaang working right
+    Orthopaedic Handicap Eligibility in Divyaang working right
+
+
++++Unit Testing Priority Class+++
+    Tatkal for AC 2 Tier is working correct
+    Tatkal for AC 3 Tier is working correct
+    Tatkal for AC First Class is working correct
+    Tatkal for Sleeper is working correct
+    Tatkal for AC Chair Car is working correct
+    Tatkal for Second Sittingis working correct
+    Tatkal for Executive Chair Car is working correct
+    Tatkal for First Class is working correct
+    Premium Tatkal for AC 2 Tier is working correct
+    Premium Tatkal for AC 3 Tier is working correct
+    Premium Tatkal for AC First Class is working correct
+    Premium Tatkal for Sleeper is working correct
+    Premium Tatkal for AC Chair Car is working correct
+    Premium Tatkal for Second Sittingis working correct
+    Premium Tatkal for Executive Chair Car is working correct
+    Premium Tatkal for First Class is working correct
+
+
++++Unit Testing Ladies Class+++
+    Ladies type works right
+
+
++++Unit Testing SeniorCitizen Class+++
+    SeniorCitizens works correctly

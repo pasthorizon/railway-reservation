@@ -1,0 +1,100 @@
+./Application  
+++++Passenger Details:
+	Name: Bishal Bag 
+	Date of Birth: 29/Feb/2000
+	Aadhaar No.: 123456789012
+	Phone No. :1234567890
+	Disability: Cancer Type
+
+++++Booking PNR number: 1
+	From station: Kolkata
+	To station: Delhi
+	Travel Date: 31/Dec/2021
+	Travel Class: AC First Class
+	Travel Category: Cancer Type
+	Fare: 2452
+
+++++Passenger Details:
+	Name: Somlagna  Bag
+	Date of Birth: 28/Feb/2000
+	Aadhaar No.: 123456789024
+	Phone No. :1234567890
+	Disability: 
+
+++++Booking PNR number: 2
+	From station: Kolkata
+	To station: Delhi
+	Travel Date: 31/Oct/2021
+	Travel Class: Executive Chair Car
+	Travel Category: Ladies Type
+	Fare: 3740
+
+++++Passenger Details:
+	Name: Bishal Bag 
+	Date of Birth: 1/May/2001
+	Aadhaar No.: 123456789234
+	Phone No. :1234567890
+	Disability: Cancer Type
+
+++++Booking PNR number: 3
+	From station: Mumbai
+	To station: Chennai
+	Travel Date: 12/Dec/2021
+	Travel Class: AC First Class
+	Travel Category: Cancer Type
+	Fare: 2234
+
+++++Passenger Details:
+	Name: Sukesh  
+	Date of Birth: 2/May/1950
+	Aadhaar No.: 123456789342
+	Phone No. :1234567890
+	Disability: 
+
+++++Booking PNR number: 4
+	From station: Mumbai
+	To station: Kolkata
+	Travel Date: 12/Sep/2021
+	Travel Class: First Class
+	Travel Category: Tatkal Type
+	Fare: 3571
+
+++++Passenger Details:
+	Name: Ramen Bag 
+	Date of Birth: 1/May/2001
+	Aadhaar No.: 123456789340
+	Phone No. :1234567890
+	Disability: Blind Type
+
+Bad_booking exception: Invalid category
+++++Passenger Details:
+	Name:  Kumar Saha
+	Date of Birth: 1/May/2010
+	Aadhaar No.: 123456789340
+	Phone No. :1234567890
+	Disability: 
+
+Bad_booking exception: Invalid path of travel
+++++Passenger Details:
+	Name:  Kumar Saha
+	Date of Birth: 1/May/2010
+	Aadhaar No.: 123456789340
+	Phone No. :1234567890
+	Disability: 
+
+Bad_booking exception: Invalid date of travel
+++++Passenger Details:
+	Name:  Kumar Saha
+	Date of Birth: 1/May/1960
+	Aadhaar No.: 123456789340
+	Phone No. :1234567890
+	Disability: 
+
+++++Booking PNR number: 5
+	From station: Mumbai
+	To station: Chennai
+	Travel Date: 12/Sep/2021
+	Travel Class: AC 2 Tier
+	Travel Category: General Category
+	Fare: 2726
+
